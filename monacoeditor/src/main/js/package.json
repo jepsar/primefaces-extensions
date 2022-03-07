@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "@types/jquery": "^3.5.13",
-    "css-loader": "^6.2.0",
+    "css-loader": "^6.7.0",
     "git-pull-or-clone": "^2.0.1",
     "mkdirp": "^1.0.4",
     "ncp": "^2.0.0",
