@@ -20,7 +20,7 @@
   "devDependencies": {
     "@types/cross-spawn": "^6.0.2",
     "@types/jquery": "^3.5.14",
-    "css-loader": "^6.7.1",
+    "css-loader": "^6.7.3",
     "mkdirp": "^1.0.4",
     "ncp": "^2.0.0",
     "recursive-readdir": "^2.2.3",
