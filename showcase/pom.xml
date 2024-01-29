@@ -27,7 +27,7 @@
         <jetty.version>9.4.53.v20231009</jetty.version>
         <omnifaces.version>3.14.4</omnifaces.version>
         <hibernate-validator.version>7.0.5.Final</hibernate-validator.version>
-        <font-awesome.version>6.4.0</font-awesome.version>
+        <font-awesome.version>6.5.1</font-awesome.version>
     </properties>
     <dependencies>
         <dependency>
